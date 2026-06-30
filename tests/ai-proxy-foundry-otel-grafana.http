@@ -15,7 +15,7 @@ curl http://127.0.0.1:9180/apisix/admin/plugin_metadata/opentelemetry -H "X-API-
       "service.name": "APISIX"
     },
     "collector": {
-      "address": "alloy:4317",
+      "address": "alloy:4318",
       "request_timeout": 3,
       "request_headers": {
       }
